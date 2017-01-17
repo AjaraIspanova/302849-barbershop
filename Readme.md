@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Ажара  Испанова](https://up.htmlacademy.ru/htmlcss/16/user/302849).
+* Наставник: [Владислав Балабанович](https://htmlacademy.ru/profile/vladbesson)
 
 ---
 
